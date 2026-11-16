@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img">
+<title>樱花云品牌纸雕插画</title>
+<desc>层叠纸雕花瓣和轻盈落瓣，构成舒展的樱花。 原创可编辑矢量图，无外部素材。</desc>
+<defs>
+  <linearGradient id="sakura-paper" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#ffffff"/><stop offset=".6" stop-color="#f7f9f8"/><stop offset="1" stop-color="#e5ebe7"/></linearGradient>
+  <linearGradient id="sakura-accent" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#dba4b9"/><stop offset="1" stop-color="#b94d76"/></linearGradient>
+  <linearGradient id="sakura-accentSoft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7eaef"/><stop offset=".5" stop-color="#eed2dd"/><stop offset="1" stop-color="#dba2b8"/></linearGradient>
+  <linearGradient id="sakura-leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#abb79a"/><stop offset="1" stop-color="#5f785b"/></linearGradient>
+  <linearGradient id="sakura-ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536058"/><stop offset=".6" stop-color="#303c35"/><stop offset="1" stop-color="#19231d"/></linearGradient>
+  <filter id="sakura-shadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#35443c" flood-opacity=".12"/></filter>
+  <filter id="sakura-smallshadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#35443c" flood-opacity=".1"/></filter>
+  <filter id="sakura-blur" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="600" fill="#fff"/>
+<ellipse cx="410" cy="520" rx="206" ry="15" fill="#273933" opacity=".075" filter="url(#sakura-blur)"/>
+<path d="M170 448c67 59 213 80 349 33 38-13 54-12 98 3" fill="none" stroke="#f5eef1" stroke-width="33" stroke-linecap="round"/>
+<path d="M170 448c67 59 213 80 349 33 38-13 54-12 98 3" fill="none" stroke="#e4c3d1" stroke-width="2" opacity=".6"/>
+<g transform="rotate(0 420 298)">
+  <path d="M420 305c-80-30-130-126-88-192 18-30 56-37 88-5 34-32 75-22 91 10 33 65-14 153-91 187Z" fill="url(#sakura-accentSoft)" stroke="#ecd9df" stroke-width="1.5" filter="url(#sakura-smallshadow)"/>
+  <path d="M420 301c-51-40-79-107-52-146 14-20 34-20 52-4 18-17 40-16 52 5 25 42-1 105-52 145Z" fill="url(#sakura-paper)"/>
+  <path d="M420 292c-5-41-4-79 0-125" fill="none" stroke="#e7c8d4" stroke-width="2"/>
+</g><g transform="rotate(72 420 298)">
+  <path d="M420 305c-80-30-130-126-88-192 18-30 56-37 88-5 34-32 75-22 91 10 33 65-14 153-91 187Z" fill="url(#sakura-accentSoft)" stroke="#ecd9df" stroke-width="1.5" filter="url(#sakura-smallshadow)"/>
+  <path d="M420 301c-51-40-79-107-52-146 14-20 34-20 52-4 18-17 40-16 52 5 25 42-1 105-52 145Z" fill="url(#sakura-paper)"/>
+  <path d="M420 292c-5-41-4-79 0-125" fill="none" stroke="#e7c8d4" stroke-width="2"/>
+</g><g transform="rotate(144 420 298)">
+  <path d="M420 305c-80-30-130-126-88-192 18-30 56-37 88-5 34-32 75-22 91 10 33 65-14 153-91 187Z" fill="url(#sakura-accentSoft)" stroke="#ecd9df" stroke-width="1.5" filter="url(#sakura-smallshadow)"/>
+  <path d="M420 301c-51-40-79-107-52-146 14-20 34-20 52-4 18-17 40-16 52 5 25 42-1 105-52 145Z" fill="url(#sakura-paper)"/>
+  <path d="M420 292c-5-41-4-79 0-125" fill="none" stroke="#e7c8d4" stroke-width="2"/>
+</g><g transform="rotate(216 420 298)">
+  <path d="M420 305c-80-30-130-126-88-192 18-30 56-37 88-5 34-32 75-22 91 10 33 65-14 153-91 187Z" fill="url(#sakura-accentSoft)" stroke="#ecd9df" stroke-width="1.5" filter="url(#sakura-smallshadow)"/>
+  <path d="M420 301c-51-40-79-107-52-146 14-20 34-20 52-4 18-17 40-16 52 5 25 42-1 105-52 145Z" fill="url(#sakura-paper)"/>
+  <path d="M420 292c-5-41-4-79 0-125" fill="none" stroke="#e7c8d4" stroke-width="2"/>
+</g><g transform="rotate(288 420 298)">
+  <path d="M420 305c-80-30-130-126-88-192 18-30 56-37 88-5 34-32 75-22 91 10 33 65-14 153-91 187Z" fill="url(#sakura-accentSoft)" stroke="#ecd9df" stroke-width="1.5" filter="url(#sakura-smallshadow)"/>
+  <path d="M420 301c-51-40-79-107-52-146 14-20 34-20 52-4 18-17 40-16 52 5 25 42-1 105-52 145Z" fill="url(#sakura-paper)"/>
+  <path d="M420 292c-5-41-4-79 0-125" fill="none" stroke="#e7c8d4" stroke-width="2"/>
+</g>
+<g filter="url(#sakura-smallshadow)"><path d="m420 266 12 20 23 5-17 17 1 24-19-12-21 12 2-24-17-17 24-5Z" fill="url(#sakura-accent)"/>
+<circle cx="420" cy="300" r="12" fill="#fceff3"/></g>
+<path d="M154 252c-29-14-52-50-38-71 17-5 27 1 35 12 15-4 32 5 32 18 0 20-12 33-29 41Z" fill="url(#sakura-accentSoft)" transform="rotate(-18 150 220)" filter="url(#sakura-smallshadow)"/>
+<path d="M635 398c-30 12-67 9-73-14 6-16 18-20 31-17 7-14 26-20 36-10 13 14 14 25 6 41Z" fill="url(#sakura-paper)" stroke="#e4dce0" filter="url(#sakura-smallshadow)"/>
+
+</svg>

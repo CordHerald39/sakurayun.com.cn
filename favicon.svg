@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img">
+  <title>樱花云</title>
+  <desc>五片带缺口的樱花花瓣围合小型星状负形；单瓣强调色使轮廓保持简洁。</desc>
+  <g fill="#181a1d"><path fill="#b94d76" transform="rotate(0 20 20)" d="M20 18C15 15 12 9 17 5l3 2 3-2c5 4 2 10-3 13Z"/><path transform="rotate(72 20 20)" d="M20 18C15 15 12 9 17 5l3 2 3-2c5 4 2 10-3 13Z"/><path transform="rotate(144 20 20)" d="M20 18C15 15 12 9 17 5l3 2 3-2c5 4 2 10-3 13Z"/><path transform="rotate(216 20 20)" d="M20 18C15 15 12 9 17 5l3 2 3-2c5 4 2 10-3 13Z"/><path transform="rotate(288 20 20)" d="M20 18C15 15 12 9 17 5l3 2 3-2c5 4 2 10-3 13Z"/></g>
+</svg>
